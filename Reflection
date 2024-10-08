@@ -1,1 +1,7 @@
+## Andrielys Paulino - Practice Set 08 - October 8th
 
+Which of the following best describes how data is transmitted over the Internet.
+I chose  A(I only.). I forgot to add that data is transmitted over the internet through  Packets are reassembled upon reaching their destination.
+
+Data sent over The Internet includes metadata.  Which of the following best describe the role of the metadata? Select two answers.
+I chose A(Metadata serves as a backup for the data being sent in case any data is lost during transmission.) and B(Metadata provides information used to route the data to the correct destination.). My mistake in choosing A is beiliving that Metadata serves as a backup when it really is to help assemble data after  it has arrived/
