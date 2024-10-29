@@ -1,8 +1,8 @@
 # Import the CMU Graphics Package:
 from cmu_graphics import *
 
-
-Circle(200,200,50)
+# Change cricle size 
+Circle(200,200,150)
 
 
 
