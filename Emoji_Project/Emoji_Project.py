@@ -6,7 +6,7 @@ Circle(200,200,150)
 
 # Two ears
 
-# Three eyes
+# One eye
 
 # A snout
 
