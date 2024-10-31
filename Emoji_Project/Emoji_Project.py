@@ -15,7 +15,7 @@ Circle(200,200,150)
 
 
 # One eye
-
+Oval(200,150,100,170, fill='white')
 # A snout
 
 # A nose
