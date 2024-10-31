@@ -10,7 +10,8 @@ Circle(200,200,150)
 Circle(80,80,65, fill=gradient('darkGreen','mediumSeaGreen', start='left-top'), border='black', borderWidth=7)
 Circle(320,80,65, fill=gradient('darkGreen','mediumSeaGreen', start='right-top'), border='black', borderWidth=7)
 
-
+# Circle overllaping the ears
+Circle(200,200,150)
 
 
 # One eye
