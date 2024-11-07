@@ -15,7 +15,7 @@ Circle(200,200,150)
 
 
 # One eye
-Oval(200,150,100,170, fill='white')
+Oval(200,150,120,167, fill=gradient('White', 'white', 'gray'))
 # A snout
 
 # A nose
