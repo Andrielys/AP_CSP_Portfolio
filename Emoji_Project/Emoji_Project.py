@@ -22,9 +22,13 @@ Oval(200,140,120,167, fill=gradient('White', 'white', 'gray'))
 
 # A nose
 
+    
 # A mouth
 Line(200,280,170,320,lineWidth=5,opacity=80)
+Line(200,280,230,320,lineWidth=5,opacity=80)
+
 # 9 grey stiches 
+
 
 # Run program:
 cmu_graphics.run()
